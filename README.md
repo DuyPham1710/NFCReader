@@ -7,7 +7,7 @@ SDK đọc dữ liệu CCCD gắn chip qua NFC trên iOS, xây dựng dựa trê
 Thêm package qua Xcode: **File → Add Package Dependencies**
 
 ```
-https://github.com/DuyPham1710/NFCReaderSPM
+https://github.com/DuyPham1710/NFCReader
 ```
 
 ## Sử dụng
